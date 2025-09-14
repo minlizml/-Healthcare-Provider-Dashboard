@@ -6,6 +6,16 @@ Power BI dashboard analyzing UK healthcare provider financial performance across
 
 Financial analysis dashboard built to optimize departmental revenue and operational efficiency. Processes patient visits, provider performance, billing, and insurance data across UK healthcare facilities.
 
+## Dashboard Views
+
+### Light Theme
+![Light Mode](https://github.com/user-attachments/assets/c2866965-b47a-43f2-a8e5-220eefb375f4)
+
+
+### Dark Theme  
+![Dark Mode](https://github.com/user-attachments/assets/37217d8c-a147-4d36-a947-ec59b826c5b7)
+
+
 ## Key Metrics
 
 - Total billing amount: £377K across all departments
@@ -37,14 +47,6 @@ Financial analysis dashboard built to optimize departmental revenue and operatio
 - Procedure and diagnosis breakdown by service type
 - Drill-down capabilities for detailed analysis
 
-## Dashboard Views
-
-### Light Theme
-![Light Mode](https://github.com/user-attachments/assets/c2866965-b47a-43f2-a8e5-220eefb375f4)
-
-
-### Dark Theme  
-![Dark Mode](https://github.com/user-attachments/assets/37217d8c-a147-4d36-a947-ec59b826c5b7)
 
 
 ## DAX Calculations
